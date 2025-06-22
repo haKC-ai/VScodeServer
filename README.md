@@ -42,7 +42,11 @@ _ __ \/ /\____________________██_____________ ███________ _________ __
          |  While you sit back and edit your .nanorc                               |
          |                                       Greetz to the real ones. cory     |
          |*~'`^`'~*-,._.,-*~'`^`'~*-,._.,-*~'`^`'~*-,._.,-*~'`^`'~*-,._.,-*~'`^`'~*|
+```
 
+<img width="780" alt="Build" src="https://github.com/user-attachments/assets/c9bc1620-1f28-4470-98e1-78bc715f08f8" />
+
+```
          |*~'`^`'~*-,._.,-*~'`^`'~*-,._.,-*~'`^`'~*-,._.,-*~'`^`'~*-,._.,-*~'`^`'~*|
          |                                                                         |
          |  Features Included:                                                     |
@@ -82,3 +86,8 @@ _ __ \/ /\____________________██_____________ ███________ _________ __
          |                                                                         |
  .:/=============================================[ bYњC O R Y H A K Cњ(C)1994!њ ] ====\:.
 ```
+
+![Post_Install](https://github.com/user-attachments/assets/c6913287-8175-42d7-9129-75f65de4200a)
+
+![Onboard](https://github.com/user-attachments/assets/3a19b673-1cd1-47ef-979c-0b45f3aabc8d)
+
