@@ -425,10 +425,12 @@ Environment="OAUTH2_PROXY_CLIENT_ID=${GH_CLIENT_ID}"
 Environment="OAUTH2_PROXY_CLIENT_SECRET=${GH_CLIENT_SECRET}"
 Environment="OAUTH2_PROXY_COOKIE_SECRET=${COOKIE_SECRET}"
 Environment="OAUTH2_PROXY_EMAIL_DOMAINS=*"
+Environment="OAUTH2_PROXY_GITHUB_ORG=YourOrgName"
 Environment="OAUTH2_PROXY_UPSTREAMS=http://127.0.0.1:${CODE_PORT}"
 Environment="OAUTH2_PROXY_PASS_USER_HEADERS=true"
 Environment="OAUTH2_PROXY_SET_AUTHORIZATION_HEADER=true"
 EOF
+
 log "    → OAuth2-Proxy config written to $SYSTEMD_DROPIN"
 
 # Restart services
